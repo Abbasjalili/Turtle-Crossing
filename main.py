@@ -1,3 +1,7 @@
+# Created by AB Jalili
+# This is part of the 100 projects 100Days Campaign.
+
+
 from turtle import Screen
 from scoreboard import Scoreboard
 from cars import Cars
